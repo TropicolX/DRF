@@ -1,2 +1,4 @@
 /DRF.code-workspace
 /venv
+.env
+/.env
