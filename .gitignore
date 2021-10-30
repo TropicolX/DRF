@@ -1,4 +1,10 @@
 /DRF.code-workspace
-/venv
+/venv 
 .env
+venv
+venv/
 /.env
+db.sqlite3
+**__pycache__/
+/__pycache__/
+__pycache__/

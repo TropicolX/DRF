@@ -12,5 +12,9 @@ pip install coverage
 coverage run --omit="*/venv/*" manage.py test
 coverage html
 pip install djangorestframework
+pip install django-cors-headers
+python manage.py startapp users
 ---------------
+
+pip install -r requirements.txt
 
